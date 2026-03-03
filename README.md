@@ -7,7 +7,7 @@
 
 ## Steg 1 – Repo för template-projekt
 
-Gå repot på GitHub: `https://github.com/IT-HUSET/ai-protoyping-med-jonathan-2026`.
+Gå repot på GitHub: [ai-protoyping-med-jonathan-2026](https://github.com/IT-HUSET/ai-protoyping-med-jonathan-2026).
 
 ## Steg 2 – Forka repot
 
