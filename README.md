@@ -45,7 +45,7 @@ git remote -v
 
 Codespaces kör en Linux-container, så du kan installera Claude Code direkt i terminalen.
 
-**Alternativ A – Native installer (rekommenderat)**
+Native installer
 
 ```bash
 curl -fsSL https://claude.ai/install.sh | bash
@@ -55,18 +55,6 @@ Starta om terminalen eller kör:
 
 ```bash
 source ~/.bashrc
-```
-
-**Alternativ B – Via npm**
-
-```bash
-npm install -g @anthropic-ai/claude-code
-```
-
-**Verifiera installationen:**
-
-```bash
-claude --version
 ```
 
 **Logga in och börja använda:**
