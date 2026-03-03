@@ -51,12 +51,6 @@ Native installer
 curl -fsSL https://claude.ai/install.sh | bash
 ```
 
-Starta om terminalen eller kör:
-
-```bash
-source ~/.bashrc
-```
-
 **Logga in och börja använda:**
 
 ```bash
